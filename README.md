@@ -1,6 +1,6 @@
 python3 --version
 2. Clone the Repository
-git clone https://github.com/AddoRichmond-rgb/python-control-flow-practice.git
+git clone https://github.com/AddoRichmond-rgb/Python-project.git
 3. Navigate to the Project
 cd python-control-flow-practice
 4. Run the Python Program
